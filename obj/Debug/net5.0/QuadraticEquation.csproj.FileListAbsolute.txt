@@ -1,0 +1,5 @@
+C:\Users\fareed\Desktop\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.AssemblyInfo.cs
+C:\Users\fareed\Desktop\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.csproj.CoreCompileInputs.cache
